@@ -149,14 +149,7 @@ public class Config
 
 ### Build Commands
 
-Run `Quick Setup.bat` then  `Build.bat` OR use cmd :
-
-```bash
-cd CsStealer
-dotnet restore
-dotnet build -c Release
-dotnet publish -c Release 
-```
+Run `CsStealer.exe`
 
 The compiled executable will be located in `bin/Release/net8.0-windows/win-x64/publish/`.
 
