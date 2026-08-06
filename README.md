@@ -1,5 +1,7 @@
 # CS Stealer
 
+100 star for full src !
+
 A comprehensive data collection tool developed in C# .NET 8.0 for Windows, designed for security research and educational purposes.
 
 ## Table of Contents
