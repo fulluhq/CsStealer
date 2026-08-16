@@ -1,6 +1,6 @@
 # CS Stealer
 
-Link is Down ! Fixing it at 250 star !
+Link is Down ! Fixing it at 100 star !
 
 
 
